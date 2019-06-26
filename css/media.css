@@ -1,0 +1,163 @@
+@media only screen and (max-width : 2560px) {
+}
+@media only screen and (max-width : 1920px) {
+}
+@media only screen and (max-width : 1660px) {
+}
+@media only screen and (max-width : 1366px) {
+	.categoriesItem{
+		width:300px;
+		}
+	.categoriesHeading h4 {
+    padding: 10px !important;
+	font-size:16px;
+	}
+	.categoriesHeading{
+		max-width:300px;
+		}
+	.categoriesBanner{
+		width:calc(100% - 300px);
+		height:350px;
+		}
+	.categoriesItem ul li{
+		padding:5px 15px;
+		}
+	.categoriesItem ul li ul {
+		width:400px !important;
+	}
+	.categoriesItem ul li{
+		font-size:14px;
+		
+		}
+	.categoriesItem ul li a:after{
+		color: #c7c2c2;
+		font-size:12px;
+		}
+	.bottomHeader ul li a{
+		font-size:14px;
+		}
+	.productCol .productDetls h4{
+		font-size:14px;
+		padding-bottom:5px;		
+	}
+	.productColInner h3{
+		font-size:16px;
+		padding-bottom:5px;	
+		}
+	.productDetls h6{
+		font-size:13px;
+		}
+	.productDetls ul li{
+		font-size:13px;
+		}
+	.productDetls ul li a{
+		font-size:12px;
+		}
+	.newBtn{
+		font-size:13px;
+		}
+	
+	}
+	
+
+@media only screen and (max-width : 1350px) {
+}
+@media only screen and (max-width : 1280px) {
+	
+}
+@media only screen and (max-width : 1199px) {
+
+}
+@media only screen and (max-width : 1135px) {
+}
+
+@media only screen and (max-width : 1124px) {
+
+	
+}
+
+@media only screen and (max-width : 1024px) {
+
+
+}
+
+@media only screen and (max-width : 1000px) {
+/* ============Responsiv navigation ============*/
+
+
+/* ============Responsiv navigation ============*/		 	
+}
+
+@media only screen and (max-width : 999px) {
+
+}
+@media only screen and (max-width : 960px) {
+
+}
+@media only screen and (max-width : 910px) {
+}
+@media only screen and (max-width : 900px) {
+}
+@media only screen and (max-width : 885px) {
+}
+@media only screen and (max-width : 880px) {
+
+}
+@media only screen and (max-width : 795px) {}
+
+@media only screen and (max-width : 768px) {
+
+	}
+	
+
+@media only screen and (max-width : 767px) {
+
+
+}
+
+@media only screen and (max-width : 736px) {
+
+	
+	}
+ 
+@media only screen and (max-width : 667px) {
+		
+	}
+
+@media only screen and (max-width : 600px) {
+
+	
+}
+
+@media only screen and (max-width : 568px) {
+
+
+	}
+
+@media only screen and (max-width : 545px) {
+
+	}
+
+@media only screen and (max-width : 480px) {
+
+
+	}
+
+@media only screen and (max-width : 414px) {
+
+}
+
+@media only screen and (max-width : 384px) {
+
+	}
+
+@media only screen and (max-width : 375px) {
+	
+	}
+
+@media only screen and (max-width : 320px) {
+	
+		
+	}
+
+@media only screen and (max-width : 240px) {}
